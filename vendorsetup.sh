@@ -1,1 +1,1 @@
-add_lunch_combo sokp_honami-eng
+add_lunch_combo sokp_i9100-eng
